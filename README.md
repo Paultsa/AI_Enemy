@@ -1,2 +1,2 @@
 # AI_Enemy
- Simple statemachine AI testing
+Testing parabella calculation with a physics cannon 
